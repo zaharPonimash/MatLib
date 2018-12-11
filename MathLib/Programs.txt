@@ -1,0 +1,81 @@
+﻿  __kernel void vecMul(__global    double * v1,  __global    double * v2, __global double * res)
+                {
+                  int i = get_global_id(0);
+                  res[0] += v1[i] * v2[i];
+                }
+
+  __kernel void vecElemMul(__global    double * v1,  __global    double * v2)
+                {
+                  int i = get_global_id(0);
+                  v1[i] = v1[i] * v2[i];
+                }
+
+  __kernel void vecSum(__global    double * v1,  __global    double * v2)
+                {
+                  int i = get_global_id(0);
+                  v1[i] = v1[i] + v2[i];
+                }
+
+  __kernel void vecDif(__global    double * v1,  __global    double * v2)
+                {
+                  int i = get_global_id(0);
+                  v1[i] = v1[i] - v2[i];
+                }
+
+				#define BLOCK_SIZE 16
+   __global__ void matrMul ( float * a, float * b, int n, float * c )
+   {
+     int bx = blockIdx.x;
+     int by = blockIdx.y;
+     int tx = threadIdx.x;
+     int ty = threadIdx.y;
+     float sum = 0.0f;
+     int ia = n * BLOCK_SIZE * by + n * ty;
+     int ib = BLOCK_SIZE * bx + tx;
+     int ic = n * BLOCK_SIZE * by + BLOCK_SIZE * bx;
+     for ( int k = 0; k < n; k++ )
+        sum += a [ia + k] * b [ib + k*n];
+     c [ic + n * ty + tx] = sum;
+}
+
+     // размер кэша тредов
+     #define TS 16
+
+     // конвертер индексов матрицы в линейный адрес
+     #define IDX2LIN(i,j,l) (i+j*l)
+     __kernel void matrMulAAA(int M, int N, int K, __global float* A, __global float* B, __global float* C) 
+                   {
+                     // 2D номер треда в группе
+                     const int r = get_local_id(0); 
+                     const int c = get_local_id(1); 
+
+                     // номер ячейки в матрице результата
+                     const int gr = get_group_id(0)*TS + r; // 0..M
+                     const int gc = get_group_id(1)*TS + c; // 0..N
+
+                     // общий кэш для тредов группы 
+                     __local float Asub[TS][TS];
+                     __local float Bsub[TS][TS];
+
+                     float acc = 0.0f; // результат работы треда
+
+                     for (int t=0; t<K/TS; t++)
+					   { // цикл по всем блокам матриц
+
+	                 const int tr = t*TS + r;
+	                 const int tc = t*TS + c;
+
+	                 // загружаем блоки в кэш
+	                 Asub[c][r] = A[ IDX2LIN(gr,tc,M) ];
+	                 Bsub[c][r] = B[ IDX2LIN(tr,gc,K) ];
+
+	                 barrier(CLK_LOCAL_MEM_FENCE); // ждём пока треды группы заполнят общий кэш
+
+	                 // вычисляем 
+	                 for (int k=0; k<TS; k++) { acc += Asub[k][r] * Bsub[c][k]; }
+
+	                 barrier(CLK_LOCAL_MEM_FENCE); // ждём пока треды группы завершат вычисления
+                       }
+
+                C[ IDX2LIN(gr,gc,M) ] = acc; // сохраняем результат
+               }

@@ -1,0 +1,5 @@
+c:\users\marat\documents\visual studio 2013\Projects\MathLib\MathLib\bin\Debug\MathLib.dll
+c:\users\marat\documents\visual studio 2013\Projects\MathLib\MathLib\bin\Debug\MathLib.pdb
+c:\users\marat\documents\visual studio 2013\Projects\MathLib\MathLib\obj\Debug\MathLib.dll
+c:\users\marat\documents\visual studio 2013\Projects\MathLib\MathLib\obj\Debug\MathLib.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\MathLib.XML

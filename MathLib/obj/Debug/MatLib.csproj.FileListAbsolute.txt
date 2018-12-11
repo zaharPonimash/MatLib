@@ -1,0 +1,20 @@
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\MathLib.XML
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\MathLib.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\MathLib.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\obj\Debug\MathLib.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\obj\Debug\MathLib.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\Cloo.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\OpenCLTemplate.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\OpenTK.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\Cloo.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\OpenCLTemplate.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\OpenTK.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\obj\Debug\MatLib.csprojResolveAssemblyReference.cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\NeuralNetwork v1.6.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\NeuralNetwork v1.6.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\NeuralNetwork v1.6.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\AI.MathMod.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\AI.MathMod.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\bin\Debug\AI.MathMod.xml

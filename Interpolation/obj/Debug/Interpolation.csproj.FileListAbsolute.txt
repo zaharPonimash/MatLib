@@ -1,0 +1,52 @@
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\Interpolation.exe.config
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\Interpolation.exe
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\Interpolation.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\MathLib.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\ZedGraph.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\ELW.Library.Math.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\OpenCLTemplate.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\OpenTK.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\MathLib.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\MathLib.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\OpenCLTemplate.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\OpenTK.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\obj\Debug\Interpolation.csprojResolveAssemblyReference.cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\obj\Debug\Interpolation.Form1.resources
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\obj\Debug\Interpolation.Properties.Resources.resources
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\obj\Debug\Interpolation.csproj.GenerateResource.Cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\obj\Debug\Interpolation.exe
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\obj\Debug\Interpolation.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\NeuralNetwork v1.6.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\NeuralNetwork v1.6.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\NeuralNetwork v1.6.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\AI.MathMod.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\AI.MathMod.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\Interpolation\bin\Debug\AI.MathMod.xml
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\Interpolation.exe.config
+C:\Users\Marat\Documents\github\MatLib\Interpolation\obj\Debug\Interpolation.exe
+C:\Users\Marat\Documents\github\MatLib\Interpolation\obj\Debug\Interpolation.pdb
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\Interpolation.exe
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\Interpolation.pdb
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\MathLib.dll
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\ZedGraph.dll
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\NeuralNetwork v1.6.dll
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\ELW.Library.Math.dll
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\OpenCLTemplate.dll
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\AI.MathMod.dll
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\OpenTK.dll
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\MathLib.pdb
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\MathLib.xml
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\NeuralNetwork v1.6.pdb
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\NeuralNetwork v1.6.xml
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\OpenCLTemplate.xml
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\AI.MathMod.pdb
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\AI.MathMod.xml
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Marat\Documents\github\MatLib\Interpolation\bin\Debug\OpenTK.xml
+C:\Users\Marat\Documents\github\MatLib\Interpolation\obj\Debug\Interpolation.csprojResolveAssemblyReference.cache
+C:\Users\Marat\Documents\github\MatLib\Interpolation\obj\Debug\Interpolation.Form1.resources
+C:\Users\Marat\Documents\github\MatLib\Interpolation\obj\Debug\Interpolation.Properties.Resources.resources
+C:\Users\Marat\Documents\github\MatLib\Interpolation\obj\Debug\Interpolation.csproj.GenerateResource.Cache

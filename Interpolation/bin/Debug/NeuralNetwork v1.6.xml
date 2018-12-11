@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NeuralNetwork v1.6</name>
+    </assembly>
+    <members>
+        <member name="M:NeuralNetwork.NeuralNet.#ctor(System.String[],NeuralNetwork.NeuralNet.Processor)">
+            <summary>
+            layers:
+            input
+            direct
+            polariz
+            softmax
+            conv
+            convEuclid
+            pool
+            unpool
+            vectortotensor3
+            tensor3tovector
+            butchnormalization
+            kernel
+            
+            funcs:
+            gauss
+            sign
+            threshold
+            relu
+            sin
+            tanh
+            sigmoid
+            </summary>
+            <param name="architecture"></param>
+        </member>
+    </members>
+</doc>

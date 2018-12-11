@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MathLib</name>
+    </assembly>
+    <members>
+        <member name="M:MatLib.matlib.Factorial(System.Int32)">
+            <summary>
+            x!
+            </summary>
+            <param name="x"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MatLib.matlib.Transofm.FFT.w1(System.Int32,System.Int32)">
+            <summary>
+            Вычисление поворачивающего модуля e^(-i*2*PI*k/N)
+            </summary>
+            <param name="k"></param>
+            <param name="N"></param>
+            <returns></returns>
+        </member>
+        <member name="M:MatLib.matlib.Transofm.FFT.fft(System.Numerics.Complex[])">
+            <summary>
+            Возвращает спектр сигнала
+            </summary>
+            <param name="x">Массив значений сигнала. Количество значений должно быть степенью 2</param>
+            <returns>Массив со значениями спектра сигнала</returns>
+        </member>
+        <member name="M:MatLib.matlib.Transofm.FFT.nfft(System.Numerics.Complex[])">
+            <summary>
+            Центровка массива значений полученных в fft (спектральная составляющая при нулевой частоте будет в центре массива)
+            </summary>
+            <param name="X">Массив значений полученный в fft</param>
+            <returns></returns>
+        </member>
+        <member name="M:MatLib.matlib.Preprocessing.Filter.Median(MatLib.Tensor3,System.Int32,System.Int32)">
+            <summary>
+            Медианный фильтр для цветного изображения.
+            </summary>
+            <param name="pict">входное изображение</param>
+            <param name="Width">ширина фильтра</param>
+            <param name="Height">высота фильтра</param>
+            <returns></returns>
+        </member>
+        <member name="M:MatLib.matlib.Preprocessing.Picture.Filter.Median(System.Drawing.Bitmap,System.Int32,System.Int32)">
+            <summary>
+            Медианный фильтр для цветного изображения.
+            </summary>
+            <param name="pict">входное изображение</param>
+            <param name="Width">ширина фильтра</param>
+            <param name="Height">высота фильтра</param>
+            <returns></returns>
+        </member>
+        <member name="M:MatLib.matlib.Preprocessing.Picture.Noise.Add.Impulse(System.Drawing.Bitmap,System.Int32,System.Int32,System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="pict">входное изображение</param>
+            <param name="Width">макс. ширина окрестности одной шумовой точки</param>
+            <param name="Height">макс. высота окрестности одной шумовой точки</param>
+            <returns></returns>
+        </member>
+        <member name="M:MatLib.Matrix.#ctor(MatLib.Vector,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="x">изображение с оттенками серого.</param>
+        </member>
+        <member name="M:MatLib.Matrix.Swap(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Заменяет строки/столбцы
+            </summary>
+            <param name="i"></param>
+            <param name="j"></param>
+            <param name="dimension"></param>
+        </member>
+        <member name="M:MatLib.Tensor4.NormalizeAbs">
+            <summary>
+            Нормализует тензор, деля на максимальное по модулю отклонение в каждом батче.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MatLib.Vector.#ctor(System.Int32)">
+             <summary>
+            
+             </summary>
+             <param name="Length">Длина вектора</param>
+        </member>
+    </members>
+</doc>

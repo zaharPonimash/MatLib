@@ -1,0 +1,28 @@
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\test1.exe.config
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\test1.exe
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\test1.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\obj\Debug\test1.exe
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\obj\Debug\test1.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\GeneticAlgorithm.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\MathLib.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\ELW.Library.Math.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\ZedGraph.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\OpenCLTemplate.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\OpenTK.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\MathLib.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\MathLib.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\OpenCLTemplate.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\OpenTK.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\obj\Debug\test1.Form1.resources
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\NeuralNetwork v1.6.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\NeuralNetwork v1.6.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\NeuralNetwork v1.6.xml
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\AI.MathMod.dll
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\AI.MathMod.pdb
+C:\Users\Marat\Documents\Visual Studio 2013\Projects\MathLib\MathLib\test1\bin\Debug\AI.MathMod.xml
